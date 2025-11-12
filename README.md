@@ -14,7 +14,6 @@
 
 ### 💡 Projects & Shenanigans
 💻 [Noobyetpro/Hp-Envy-13-ad1xx-hackintosh](https://github.com/Noobyetpro/Hp-Envy-13-ad1xx-hackintosh)  
-<br>
 🕸  [Noobyetpro/web2app](https://github.com/Noobyetpro/web2app)
 <br>
 ⛑  [Noobyetpro/discord-bot-template](https://github.com/Noobyetpro/Discord-Bot-Template)

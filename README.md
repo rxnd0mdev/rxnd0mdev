@@ -25,6 +25,6 @@
 
 
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/noobyetpro/stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noobyetpro&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noobyetpro&theme=bear)
 
 
